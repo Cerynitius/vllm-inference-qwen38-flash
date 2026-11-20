@@ -1,0 +1,9 @@
+vllm-inference-qwen38-flash
+Copyright 2026 Cerynitius
+
+The files under vllm/ are modified copies of files from vLLM 0.30.0
+(https://github.com/vllm-project/vllm), Copyright the vLLM authors,
+licensed under the Apache License, Version 2.0.
+
+assets/draft_vocab_98304.pt is the drafter vocabulary subset from
+https://github.com/Cerynitius/heterogeneous-inference-qwen27b.

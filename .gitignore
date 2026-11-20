@@ -1,0 +1,7 @@
+.venv/
+.cache/
+third_party/
+prof/
+__pycache__/
+*.pyc
+kernels/**/build*/
